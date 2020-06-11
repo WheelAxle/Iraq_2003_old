@@ -3,6 +3,7 @@
 	<weapon key='m4.weapon' />
 	<weapon key='fal_bayonet.weapon' />
 	<weapon key='m60e4.weapon' />
+	<weapon key='rpd.weapon' />
 
 	<weapon key='rpg-7.weapon' />
 
