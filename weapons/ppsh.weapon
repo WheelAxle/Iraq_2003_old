@@ -2,7 +2,7 @@
 <weapon file="base_primary.weapon" key="ppsh.weapon">
     <tag name="assault" />
     <specification 
-  retrigger_time="0.05"
+  retrigger_time="0.06"
   accuracy_factor="0.7" 
   sustained_fire_grow_step="0.2" 
   sustained_fire_diminish_rate="0.9" 
@@ -18,10 +18,11 @@
     <animation key="recoil" ref="13" />
     <animation key="recoil" ref="14" />
     <animation state_key="reload" animation_key="reloading, scorpion-evo" />
-    <sound key="fire" fileref="mg42_shot.wav" pitch_variety="0.04" volume="0.60" />
-    <sound key="magazine_out" fileref="rifle_clip_out.wav" />
-    <sound key="magazine_in" fileref="rifle_clip_in.wav" />
-    <sound key="cycle" fileref="rifle_chamber.wav" />
+
+    <sound key="fire" fileref="ppsh.wav" pitch_variety="0.04" volume="0.60" />
+    <sound key="magazine_out" fileref="reloadsc_1.wav" />
+    <sound key="magazine_in" fileref="reloadsc_2.wav" />
+    <sound key="cycle" fileref="reloadsc_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
 
     <model filename="ppsh.xml" />

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <weapon file="base_primary_rare.weapon" key="saiga.weapon">
+
     <specification retrigger_time="0.25" 
     accuracy_factor="0.9" 
     sustained_fire_grow_step="0.6" 
@@ -13,13 +14,14 @@
     sight_range_modifier="1.0" 
     projectile_speed="95.0" 
     projectiles_per_shot="3" />
+
     <animation key="recoil" ref="27" />
     <animation key="cycle" ref="28" />
     <animation key="reload" animation_key="reloading, aa-12" />
     <sound key="fire" fileref="saiga.wav" pitch_variety="0.05" volume="0.7" />
-    <sound key="magazine_out" fileref="rifle_clip_out1.wav" />
-    <sound key="magazine_in" fileref="rifle_clip_in1.wav" />
-    <sound key="cycle" fileref="rifle_chamber1.wav" />
+    <sound key="magazine_out" fileref="reloadak_1.wav" />
+    <sound key="magazine_in" fileref="reloadak_2.wav" />
+    <sound key="cycle" fileref="reloadak_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
     <model filename="saiga.xml" />
 

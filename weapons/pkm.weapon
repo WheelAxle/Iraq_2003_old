@@ -23,10 +23,10 @@
     <animation state_key="walking" animation_key="walking, heavy weapon" />
     <animation state_key="walking_backwards" animation_key="walking backwards, heavy weapon" />
 
-    <sound key="fire" fileref="pkm_shot.wav" pitch_variety="0.08" volume="0.7" />
-    <sound key="magazine_out" fileref="mg_clip_out.wav" />
-    <sound key="magazine_in" fileref="mg_clip_in.wav" />
-    <sound key="cycle" fileref="rifle_chamber1.wav" />
+    <sound key="fire" fileref="pkm.wav" pitch_variety="0.08" volume="0.7" />
+    <sound key="magazine_out" fileref="reloadpkm_1.wav" />
+    <sound key="magazine_in" fileref="reloadpkm_2.wav" />
+    <sound key="cycle" fileref="reloadpkm_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
     <model filename="pkm.xml" />
 

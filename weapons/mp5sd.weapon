@@ -2,7 +2,7 @@
 <weapon file="base_primary.weapon" key="mp5sd.weapon">
     <tag name="stealth" />
     <specification 
-  retrigger_time="0.092"
+  retrigger_time="0.086"
   last_burst_retrigger_time="0.3"  
   accuracy_factor="1.0" 
   sustained_fire_grow_step="0.7" 
@@ -19,9 +19,9 @@
     <animation key="recoil" ref="14" />
     <animation state_key="reload" animation_key="reloading, mp5sd" />
     <sound key="fire" fileref="mp5sd_shot.wav" volume="0.5" />
-    <sound key="magazine_out" fileref="rifle_clip_out.wav" />
-    <sound key="magazine_in" fileref="rifle_clip_in.wav" />
-    <sound key="cycle" fileref="rifle_chamber.wav" />
+    <sound key="magazine_out" fileref="reloadm4_1.wav" />
+    <sound key="magazine_in" fileref="reloadm4_1.wav" />
+    <sound key="cycle" fileref="reloadak_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
 
     <model filename="suppressed_smg1.xml" />

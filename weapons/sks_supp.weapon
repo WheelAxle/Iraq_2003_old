@@ -19,9 +19,9 @@
     <animation key="recoil" ref="14" />
     <animation state_key="reload" animation_key="reloading, sg552" />
     <sound key="fire" fileref="supp_smg2.wav" pitch_variety="0.05" volume="0.65"/>
-    <sound key="magazine_out" fileref="rifle_clip_out1.wav" />
-    <sound key="magazine_in" fileref="rifle_clip_in1.wav" />
-    <sound key="cycle" fileref="rifle_chamber1.wav" />
+    <sound key="magazine_out" fileref="reloadak_1.wav" />
+    <sound key="magazine_in" fileref="reloadak_2.wav" />
+    <sound key="cycle" fileref="reloadak_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
     <model filename="sks_supp.xml" />
 

@@ -23,6 +23,7 @@
     <animation key="reload" ref="35" />
     <animation key="hold" ref="39" />
     <animation key="hold_on_wall" ref="39" />
+
     <sound key="fire" fileref="javelin_shot.wav" volume="0.6" />
     <sound key="cycle" fileref="sniper_cycle.wav" />
     <sound key="magazine_out" fileref="sniper_clip_out.wav" />
@@ -46,7 +47,7 @@
     <capacity value="3" source="rank" source_value="0.5" />        
 
     <hud_icon filename="hud_pf98.png" />
-    <commonness value="0.02" can_respawn_with="1" in_stock="1" />
+    <commonness value="0.02" can_respawn_with="0" in_stock="0" />
     <inventory encumbrance="6.0" price="10.0" />
 
     <effect class="muzzle" ref="LawMuzzle" />
