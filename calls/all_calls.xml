@@ -25,6 +25,7 @@
 	<call file="guntruck.call" />
 	<call file="usapc.call" />
 	<call file="cheap_cover.call" />
+	<call file="care_drop.call" />
 
 	<call file="laser_strike.call" />
 

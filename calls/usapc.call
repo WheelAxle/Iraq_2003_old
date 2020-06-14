@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <call name="spawn apc" key="usapc.call"
-           initiation_comment1="I need an APC!"
+           initiation_comment1="I need an APC"
            acknowledge_comment="Confirmed, AAVP7A1 inbound to your position."
            launch_comment="Airdropping AAVP7A1 now."
            	  notify_metagame="1">

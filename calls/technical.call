@@ -13,7 +13,7 @@
            launch_time="10.0"
            spawn_time="17.0"
            horizontal_offset_at_spawn="0.0"
-           vertical_offset_at_spawn="4.0"
+           vertical_offset_at_spawn="2.0"
            initial_speed_to_target="0.0">
     </round>
 
