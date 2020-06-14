@@ -28,6 +28,7 @@
 	<call key="paratroopers_medic.call" />
 	<call key="paratroopers4.call" />    
 	<call key="cover_drop.call" />
+	<call key="care_drop.call" />
 	<call key="humvee.call" />
 	<call key="usapc.call" />  
 	
