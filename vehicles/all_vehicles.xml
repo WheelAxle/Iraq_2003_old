@@ -108,6 +108,7 @@
 	<vehicle file="tank_2_para.vehicle" />
 	<vehicle file="wiesel_tow_para.vehicle" />
 	<vehicle file="cover_crate_para.vehicle" />
+	<vehicle file="care_package_para.vehicle" /> 
 
 	<vehicle file="emp.vehicle" />
 	<vehicle file="guntruck.vehicle" />
