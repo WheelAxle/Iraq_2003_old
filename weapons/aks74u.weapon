@@ -16,10 +16,11 @@
     <animation key="recoil" ref="13" />
     <animation key="recoil" ref="14" />
     <animation state_key="reload" animation_key="reloading, aks74u" />
-    <sound key="fire" fileref="aks74u_shot.wav" />
-    <sound key="magazine_out" fileref="rifle_clip_out1.wav" />
-    <sound key="magazine_in" fileref="rifle_clip_in1.wav" />
-    <sound key="cycle" fileref="rifle_chamber1.wav" />
+
+    <sound key="fire" fileref="aks74u.wav" volume="0.5" />
+    <sound key="magazine_out" fileref="reloadak_1.wav" />
+    <sound key="magazine_in" fileref="reloadak_2.wav" />
+    <sound key="cycle" fileref="reloadak_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
     <model filename="aks74u.xml" />
 

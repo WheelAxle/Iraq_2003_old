@@ -26,8 +26,8 @@
     <sound key="cycle" fileref="sniper_cycle.wav" />
     <sound key="magazine_out" fileref="sniper_clip_out.wav" />
     <sound key="magazine_in" fileref="sniper_clip_in.wav" />
-    <sound key="cycle_out" fileref="sniper_cycle_out.wav" />
-    <sound key="cycle_in" fileref="sniper_cycle_in.wav" />
+    <sound key="cycle_out" fileref="reloadsnip_1.wav" />
+    <sound key="cycle_in" fileref="reloadsnip_2.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
 
     <model filename="m40a3_supp.xml" />

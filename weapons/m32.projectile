@@ -8,7 +8,7 @@
 
     <commonness value="0.0" />
 
-    <sound class="result" key="other" fileref="explosion5.wav" />
+    <sound class="result" key="other" fileref="explosion_grenade1.wav" />
 
     <sound class="result" key="terrain" copy="other" />
     <sound class="result" key="static_object" copy="other" />

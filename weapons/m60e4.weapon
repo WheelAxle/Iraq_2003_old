@@ -37,9 +37,9 @@
 	<animation state_key="crouch_moving" animation_key="crouching forwards, hip fire" />
     
     <sound key="fire" fileref="m60_shot.wav" pitch_variety="0.05" volume="0.5" />
-    <sound key="magazine_out" fileref="mg_clip_out.wav" />
-    <sound key="magazine_in" fileref="mg_clip_in.wav" />
-    <sound key="cycle" fileref="rifle_chamber1.wav" />
+    <sound key="magazine_out" fileref="reloadm240b_1.wav" />
+    <sound key="magazine_in" fileref="reloadm240b_2.wav" />
+    <sound key="cycle" fileref="reloadm240b_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
     <model filename="m60e4.xml" />
 

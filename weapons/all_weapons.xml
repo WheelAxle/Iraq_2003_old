@@ -20,6 +20,8 @@
 	<weapon file="m60e4.weapon" />
 	<weapon file="m249.weapon" />
 	<weapon file="stoner62.weapon" />   
+	<weapon file="rpk.weapon" />
+	<weapon file="rpd.weapon" />
 
 	<weapon file="m40a3.weapon" />
 	<weapon file="m40a3_supp.weapon" />

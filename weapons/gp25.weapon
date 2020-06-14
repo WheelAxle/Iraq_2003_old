@@ -25,7 +25,8 @@
     <animation key="recoil" ref="13" />
     <animation key="recoil" ref="14" />
     <animation state_key="reload" animation_key="reloading, rgm40" />
-    <sound key="fire" fileref="rgm40_shot.wav" pitch_variety="0.1" volume="0.4" />
+
+    <sound key="fire" fileref="gp25.wav" pitch_variety="0.1" volume="0.4" />
     <sound key="magazine_out" fileref="m79_clip_out.wav" volume="0.7" />
     <sound key="magazine_in" fileref="m79_reload.wav" volume="0.7"/>
     <sound key="cycle" fileref="m79_cycle.wav" volume="0.7"/>

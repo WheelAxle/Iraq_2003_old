@@ -2,7 +2,7 @@
 <weapon file="base_primary.weapon" key="ak47.weapon">
     <tag name="assault" />
     <specification 
-  retrigger_time="0.123" 
+  retrigger_time="0.1" 
   accuracy_factor="1.0" 
   sustained_fire_grow_step="0.40" 
   sustained_fire_diminish_rate="1.2" 
@@ -20,16 +20,16 @@
 
     <animation state_key="celebrate_shoot" animation_key="celebrating, shooting" />
 
-    <sound key="fire" fileref="ak47_golden_shot.wav" pitch_variety="0.06" />
-    <sound key="magazine_out" fileref="rifle_clip_out1.wav" />
-    <sound key="magazine_in" fileref="rifle_clip_in1.wav" />
-    <sound key="cycle" fileref="rifle_chamber1.wav" />
+    <sound key="fire" fileref="ak47.wav" pitch_variety="0.06" volume="0.5" />
+    <sound key="magazine_out" fileref="reloadak_1.wav" />
+    <sound key="magazine_in" fileref="reloadak_2.wav" />
+    <sound key="cycle" fileref="reloadak_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
     <model filename="ak47.xml" />
 
     <hud_icon filename="hud_ak47.png" />
     <commonness value="0.2" />
-    <inventory encumbrance="10.0" price="2.0" />
+    <inventory encumbrance="10.0" price="1.0" />
 
     <projectile file="bullet.projectile">
 	    <result class="hit" kill_probability="0.55" kill_decay_start_time="0.33" kill_decay_end_time="0.68" />

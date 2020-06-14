@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<weapon file="base_primary_rare.weapon" key="beretta_93r.weapon">
+<weapon file="base_secondary_sidearm.weapon" key="beretta_93r.weapon">
     <tag name="assault" />       
 	
     <specification
@@ -66,6 +66,6 @@
     <stance state_key="standing" accuracy="0.85" />
     <stance state_key="crouching" accuracy="0.95" />
     <stance state_key="prone" accuracy="0.95" />
-    <modifier class="speed" value="+0.0" />    
+    <modifier class="speed" value="-0.02" />    
 
 </weapon>

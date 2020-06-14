@@ -24,10 +24,11 @@
     <animation key="recoil" ref="13" />
     <animation key="recoil" ref="14" />
     <animation state_key="reload" animation_key="reloading, gl06" />
-    <sound key="fire" fileref="gl06_shot.wav" pitch_variety="0.1" volume="1.0" />
-    <sound key="magazine_out" fileref="m79_clip_out1.wav" volume="0.7" />
-    <sound key="magazine_in" fileref="m79_reload1.wav" volume="0.7"/>
-    <sound key="cycle" fileref="m79_cycle1.wav" volume="0.7"/>
+
+    <sound key="fire" fileref="m230.wav" pitch_variety="0.1" volume="1.0" />
+    <sound key="magazine_out" fileref="reloadm230_1.wav" volume="0.7" />
+    <sound key="magazine_in" fileref="reloadm230_1.wav" volume="0.7"/>
+    <sound key="cycle" fileref="reloadm230_2.wav" volume="0.7"/>
     <sound class="impact" fileref="rifle_drop.wav" />
 
     <model filename="m320.xml" />

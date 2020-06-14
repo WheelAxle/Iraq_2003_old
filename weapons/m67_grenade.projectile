@@ -22,7 +22,7 @@
     <capacity value="4" source="rank" source_value="0.4" />
     <inventory encumbrance="3.0" price="2.0" />
 
-    <sound class="result" key="other" fileref="explosion1.wav" />
+    <sound class="result" key="other" fileref="explosion_grenade2.wav" />
     <sound class="result" key="other" fileref="explosion2.wav" />
     <sound class="result" key="other" fileref="explosion2_1.wav" />    
 

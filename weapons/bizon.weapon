@@ -16,15 +16,16 @@
     <animation key="recoil" ref="13" />
     <animation key="recoil" ref="14" />
     <animation state_key="reload" animation_key="reloading, aks74u" />
+
     <sound key="fire" fileref="bizon_shot.wav" volume="0.5" pitch_variety="0.05" />
-    <sound key="magazine_out" fileref="rifle_clip_out1.wav" />
-    <sound key="magazine_in" fileref="rifle_clip_in1.wav" />
-    <sound key="cycle" fileref="rifle_chamber1.wav" />
+    <sound key="magazine_out" fileref="reloadsc_1.wav" />
+    <sound key="magazine_in" fileref="reloadsc_2.wav" />
+    <sound key="cycle" fileref="reloadak_3.wav" />
     <sound class="impact" fileref="rifle_drop.wav" />
     <model filename="bizon.xml" />
 
     <hud_icon filename="hud_bizon.png" />
-    <commonness value="0.00001" can_respawn_with="1" in_stock="1" />
+    <commonness value="0.001" can_respawn_with="0" in_stock="0" />
     <inventory encumbrance="10.0" price="300.0" />
 
     <projectile file="bullet.projectile">
